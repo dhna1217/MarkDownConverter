@@ -1,6 +1,5 @@
   
 
-# This is testing Version two
 Paragraph In the middle
 ## Header Test
 #### Header with [Fake Link](http://test.com) test [Second Link](htp://)

@@ -14,7 +14,7 @@ public class MarkdownConverter
     }
 
     /// <summary>
-    /// Read line by line from input and parse converted html text
+    /// Read line by line from input and parse converted html text to _finalText
     /// </summary>
     /// <param name="input"></param>
     /// <returns></returns>

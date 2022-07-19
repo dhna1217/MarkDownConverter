@@ -6,7 +6,7 @@ public class Program
     public static void Main(string[] args)
     {
         //Checking basic arugment length. Assuming proper file name and argument names provided
-        if(args.Length == 0)
+        if(args.Length != 4)
         {
             Console.Error.WriteLine("File path is not provided! Provide full file path argument with '--path fileName --out outPutPathName' format");
         }
