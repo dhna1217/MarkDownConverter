@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MarkDownConverter": {
+      "commandName": "Project",
+      "commandLineArgs": "--path C:\\Users\\jason.na\\source\\repos\\MarkDownConverter\\MarkDownConverter\\test.txt --out C:\\Users\\jason.na\\source\\repos\\MarkDownConverter\\MarkDownConverter\\Converted.txt"
+    }
+  }
+}

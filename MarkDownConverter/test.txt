@@ -1,0 +1,14 @@
+  
+
+# This is testing Version two
+Paragraph In the middle
+## Header Test
+#### Header with [Fake Link](http://test.com) test [Second Link](htp://)
+
+##This should not be a header.
+
+[Valid  Link]()  Second line is here.
+[](http://test.com) Is this valid?
+Third line is here.
+   
+This needs [TestLink](http://test.com) to be separate
