@@ -3,6 +3,6 @@
 <h4>Header with <a href="http://test.com">Fake Link</a> test <a href="htp://">Second Link</a></h4>
 <p>##This should not be a header.</p>
 <p><a href="">Valid  Link</a>  Second line is here.
-[](http://test.com) Is this valid?
+<a href="http://test().com">[Test]</a> Is this valid?
 Third line is here.</p>
 <p>This needs <a href="http://test.com">TestLink</a> to be separate</p>

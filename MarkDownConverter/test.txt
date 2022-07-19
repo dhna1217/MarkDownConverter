@@ -7,7 +7,7 @@ Paragraph In the middle
 ##This should not be a header.
 
 [Valid  Link]()  Second line is here.
-[](http://test.com) Is this valid?
+[[Test]](http://test().com) Is this valid?
 Third line is here.
    
 This needs [TestLink](http://test.com) to be separate
